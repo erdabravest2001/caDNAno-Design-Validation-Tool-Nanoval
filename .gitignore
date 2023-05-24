@@ -1,0 +1,7 @@
+__pycache__/
+*.db
+.DS_Store
+thumb.db
+.ipynb_checkpoints/
+testscript.py 
+tempstat/Data/idt_api_credentials.json
