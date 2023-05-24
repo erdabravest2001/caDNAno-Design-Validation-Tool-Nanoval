@@ -5,3 +5,4 @@ thumb.db
 .ipynb_checkpoints/
 testscript.py 
 tempstat/Data/idt_api_credentials.json
+tempstat/Data/*
