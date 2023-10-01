@@ -13,7 +13,7 @@ caDNAno is a very popular tool for computer-aided DNA origami design. This proje
 ## Developers
 Fumiya Inaba (Co-Primary Developers) \
 Ethan Rajkumar (Co-Primary Developer) \
-Qiyang Geng (Secondary Developer) \
+Qiyang Geng (Secondary Developer) 
 
 
 ## Usage  
