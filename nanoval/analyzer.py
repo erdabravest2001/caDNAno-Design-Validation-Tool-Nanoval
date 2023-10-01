@@ -12,7 +12,7 @@ class StrandAnalyzer(StrandLinker):
     def __init__(self, design_filepath:Path, sequence_csv:str = None, scaffold_seq_name:str = "p8064") -> None:
         print("PROCESS: Initializing StrandAnalyzer object.")
         super(StrandAnalyzer, self).__init__(design_filepath)
-        self.seq_json_path = Path(__file__).parent / "Data/sequences.json"
+        self.seq_jsn_path = Path(__file__).parent / "Data/sequences.json"
         self.linked_staple_coords = self.extract_staple_coords()
         self.scaf_name = scaffold_seq_name
         self.scaf_seq = self.read_scaffold_seq()
