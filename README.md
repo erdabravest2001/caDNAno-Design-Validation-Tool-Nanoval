@@ -11,9 +11,9 @@ Users should be familiar with the caDNAno2 interface and the representations of 
 caDNAno is a very popular tool for computer-aided DNA origami design. This project aims to analyze caDNAno design files (.json), identifying potentially problematic staple strands such as 'kinetic traps', or 'sandwich strands', a term coined by Dr.Stephanie Lauback. The inclusion of such strands in the design are thought to affect parameters of the DNA origami structure formed in the lab such as stability and formation yield. This tool was developed for the DNA origami design pipeline at UBC BIOMOD.
 
 ## Developers
-Fumiya Inaba (Co-Primary Developers)
-Ethan Rajkumar (Co-Primary Developer)
-Qiyang Geng (Secondary Developer)
+Fumiya Inaba (Co-Primary Developers) \
+Ethan Rajkumar (Co-Primary Developer) \
+Qiyang Geng (Secondary Developer) \
 
 
 ## Usage  
